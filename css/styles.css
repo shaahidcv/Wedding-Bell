@@ -364,6 +364,7 @@ height: 50px;
 /*Media Query*/
 /* Footer */
 @media (max-width: 768px){
+	
 	.footer-links-wrapper ul {
 		display: none;
 	}
@@ -381,6 +382,7 @@ height: 50px;
 }
 @media (min-width: 768px) {
 	/*Nav bar*/
+	
 	.nav-item {
 		text-align: center !important;
 		padding: 0;
